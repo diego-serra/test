@@ -1,5 +1,4 @@
 
-aplicacion full
 
-en produccion
+aprobado
 
